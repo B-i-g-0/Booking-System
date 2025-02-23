@@ -1,2 +1,2 @@
 # Booking-System
- This system will help students schedule consultations with their lecturers.
+ This system help students schedule consultations with their lecturers in the most efficient an effective way.
